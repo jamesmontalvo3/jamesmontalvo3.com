@@ -1,45 +1,30 @@
 James Montalvo
 ==============
 
-1410 Neptune Ln
-
-Houston, Texas 77062
-
-jamesmontalvo3@gmail.com
-
+1410 Neptune Ln  
+Houston, Texas 77062  
+jamesmontalvo3@gmail.com  
 jamesmontalvo3.com
 
 
 Around the Web
 --------------
-* Github
-* MediaWiki
-* LinkedIn
+* [Github profile](https://github.com/jamesmontalvo3)
+* [MediaWiki user page](https://www.mediawiki.org/wiki/User:Jamesmontalvo3)
+
 
 Professional Summary
 --------------------
 
-Problem solver with experience in managing operations where human life is at stake. Superior public speaking and instructional skills developed from six years of training astronauts. 
+Problem solver with experience managing operations where human life is at stake.
 
-
-* Skilled with Solidworks and other CAD software 
-* experienced with design of avionics for general aviation
-* specifically regarding LCD implementation.
-* Demonstrated strong verbal and written communication skills 
-* A mechanical engineer 
-* experience in the avionics industry.
-
-
-Summary of Qualifications
--------------------------
-
-* Able to prioritize and thrive in fast-paced, deadline-oriented environment while still producing a beautiful product
-* Strong understanding of physics and engineering, with background in mechanical engineering, studies in electrical engineering, and a passion for software
-* Outstanding communicator, proficient at building strong working relationships
+* Able to prioritize and thrive in fast-paced, deadline-oriented environment while still producing a exceptional product
+* Broad understanding of physics and engineering, with degree and career in mechanical engineering, studies in electrical engineering, and a passion for software development
+* Superior public speaking and instructional skills developed from six years of training astronauts
 * Adept at analyzing business processes and providing game-changing improvements
-  * Lives by the belief that anything truly novel will be incomprehensible to most people and a functional demonstration or prototype is required to encourage understanding
-  * An obsessive problem-identifier and solver
-* Experience managing small groups of two to five people
+* Able to identify and solve problems others were not aware existed
+* Experience managing small groups of two to five people in high-pressure scenarios
+* Skilled with Solidworks and other CAD software designing avionics and LCD panels
 
 
 Professional Experience
@@ -110,9 +95,7 @@ BS, Mechanical Engineering, 2007
 Independent Learning
 --------------------
 
-
-
-	? ? ? ?
+? I've done a lot of self-studying in my post-college life (taught myself a lot of software development). How can I capture that in a resume ?
 
 
 
