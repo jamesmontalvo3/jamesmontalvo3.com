@@ -37,9 +37,17 @@ United Space Alliance, Houston, TX
 
 _THIS SECTION NEEDS TO BE MADE MORE BETTER_
 
-* Flight Controller Certification
-* Tools Group lead
-* Skills Cadre co-lead
+* Design and implement training programs for Astronauts in preparation for spacewalks
+* Collaborate with astronauts aboard the international space station in preparation for spacewalks
+* script specific plan of action for space walks and oversee their (...) from mission control
+* Project manager for the preparation and implementation of emergency spacewalks where urgency is necessary
+
+
+* Obtained Extra-Vehicular Activity Flight Controller Certification
+  * Certification required simulations to ... 
+  * Certified after third simulation; typically five or more are required.
+* Tools Group lead, in charge of ....
+* Skills Cadre co-lead, in charge of improving training for new astronauts
 * 
 * Tools integration into Predive Calendar
 * EVA Wiki
@@ -52,10 +60,15 @@ _THIS SECTION NEEDS TO BE MADE MORE BETTER_
 
 ### EVA Instructor, 2008 – 2011
 
-* Instructor Certification
-* STS-132
-* Predive Calendar
-* Expedition 30
+* Trained Space Shuttle crew of STS-132 and International Space Station Expedition 30
+* Obtained Extra-Vehicular Activity Task Instructor Certification
+  * Taught many classes to astronauts and other NASA personnel in preparation for EVA (spacewalk) activities
+  * Became proficient at teaching 2-3 hour long classes and leading 8+ hour training events
+  * Developed effective teaching aids using a variety of media including Powerpoint, video, and mockups
+* Created web-based software program to fix innefficient processes
+  * Consolidated communication from instructors to the Neutral Buoyancy Laboratory
+  * Organized documents for training events and made them easily searchable and reusable
+  * Combined three existing systems into one
 
 Avidyne Corporation, Lincoln, MA
 --------------------------------
