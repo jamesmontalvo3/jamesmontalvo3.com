@@ -9,8 +9,8 @@ jamesmontalvo3.com
 
 Around the Web
 --------------
-* [Github profile](https://github.com/jamesmontalvo3)
-* [MediaWiki user page](https://www.mediawiki.org/wiki/User:Jamesmontalvo3)
+* [Github profile](https://github.com/jamesmontalvo3): all my open-source software is hosted here
+* [MediaWiki user page](https://www.mediawiki.org/wiki/User:Jamesmontalvo3): Includes a detailed explanation of my MediaWiki career
 
 
 Professional Summary
@@ -34,6 +34,8 @@ United Space Alliance, Houston, TX
 ----------------------------------
 
 ### EVA Flight Controller and Instructor, 2011 – Present
+
+_THIS SECTION NEEDS TO BE MADE MORE BETTER_
 
 * Flight Controller Certification
 * Tools Group lead
