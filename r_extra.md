@@ -1,3 +1,7 @@
+@todo:
+  1. Make bullets "actionable"
+  2. (should I do me@jamesmontalvo3.com or james@montalvo.us ???)
+
 knowledge management
 training process improvement
 IN WORK: mission operations process improvement

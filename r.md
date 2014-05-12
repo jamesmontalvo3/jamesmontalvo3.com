@@ -1,43 +1,37 @@
-@todo:
-  1. Make bullets "actionable"
-
-
-
-problem solving thinker
-
-
-
-
-
 James Montalvo
+==============
+
 1410 Neptune Ln
+
 Houston, Texas 77062
-jamesmontalvo3@gmail.com (should I do me@jamesmontalvo3.com or james@montalvo.us ???)
+
+jamesmontalvo3@gmail.com
+
 jamesmontalvo3.com
 
 
-
 Around the Web
-==============
-
+--------------
 * Github
 * MediaWiki
 * LinkedIn
 
 Professional Summary
-====================
+--------------------
 
-Problem solver with experience in planning, training and supervising operations where human life is at stake.
+Problem solver with experience in managing operations where human life is at stake. Superior public speaking and instructional skills developed from six years of training astronauts. 
 
-Skilled with Solidworks and other CAD software and experienced with design of avionics for general aviation, specifically regarding LCD implementation.
 
-Demonstrated strong verbal and written communication skills working in a multi-site organization, with my manager and half of my department located in Florida.
-
-A mechanical engineer with two years of experience in the avionics industry.
+* Skilled with Solidworks and other CAD software 
+* experienced with design of avionics for general aviation
+* specifically regarding LCD implementation.
+* Demonstrated strong verbal and written communication skills 
+* A mechanical engineer 
+* experience in the avionics industry.
 
 
 Summary of Qualifications
-=========================
+-------------------------
 
 * Able to prioritize and thrive in fast-paced, deadline-oriented environment while still producing a beautiful product
 * Strong understanding of physics and engineering, with background in mechanical engineering, studies in electrical engineering, and a passion for software
