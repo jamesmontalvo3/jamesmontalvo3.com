@@ -4,15 +4,7 @@ James Montalvo
 1410 Neptune Ln  
 Houston, Texas 77062  
 jamesmontalvo3@gmail.com  
-[jamesmontalvo3.com](http://jamesmontalvo3.com)
-
-
-Online Profiles
----------------
-
-* [Github](https://github.com/jamesmontalvo3): all my open-source software is hosted here
-* [MediaWiki user page](https://www.mediawiki.org/wiki/User:Jamesmontalvo3): Includes a detailed explanation of my MediaWiki career
-
+Online at: [jamesmontalvo3.com](http://jamesmontalvo3.com) | [Github](https://github.com/jamesmontalvo3) | [MediaWiki.org](https://www.mediawiki.org/wiki/User:Jamesmontalvo3)
 
 Professional Summary
 --------------------
