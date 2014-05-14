@@ -48,10 +48,10 @@ United Space Alliance, Houston, TX
 * Lead procedure developer for "US EVA 20", November 2012 ?checkdate
   * Ammonia leak in power generation system
   * Many systems and interfaces that had not been actuated on-orbit before
-  * Worked non-stop for four weeks to develop plan and prepare the astronauts already on-orbit
+  * Worked 24/7 schedule to develop plan and prepare the astronauts already on-orbit
 * Lead procedure developer for "US EVA 21", June 2013 ?checkdate
   * Emergency spacewalk
-  * Unprecedented 36-hour very quick turn around (basically did not sleep during this time)
+  * Unprecedented 36-hour very quick turn around working 24/7 schedule
 * Trained astronaut Mike Hopkins for International Space Station Expedition 37
 * Performed large object jettison analysis for US EVAs 24 and 25
 
