@@ -16,15 +16,18 @@ Around the Web
 Professional Summary
 --------------------
 
-Problem solver with experience managing operations where human life is at stake.
+Problem solver with experience managing operations where human life is at stake:
 
-* Able to prioritize and thrive in fast-paced, deadline-oriented environment while still producing a exceptional product
-* Broad understanding of physics and engineering, with degree and career in mechanical engineering, studies in electrical engineering, and a passion for software development
-* Superior public speaking and instructional skills developed from six years of training astronauts
-* Adept at analyzing business processes and providing game-changing improvements
-* Able to identify and solve problems others were not aware existed
-* Experience managing small groups of two to five people in high-pressure scenarios
-* Skilled with Solidworks and other CAD software designing avionics and LCD panels
+* Thrives under pressure in fast-paced, deadline-oriented environment while still producing exceptional products
+* Manages small groups of two to five people in high-pressure scenarios
+* Identifies problems others overlook and provides effective solutions
+* Analyzes business processes and develops game-changing improvements
+* Instructs astronauts in technical subjects and speaks publicly with ease and confidence
+* Studies new subjects and reads technical literature
+* Understands broad engineering topics
+  * Degree and career in mechanical engineering
+  * Studies in electrical engineering
+  * Passion for software development
 
 
 Professional Experience
@@ -152,16 +155,4 @@ Miscellaneous
 * SCUBA Certified, dives in NASA's Neutral Buoyancy Lab
 * Strong writing skills and oral communication
 * Technical writing: modification and assembly procedures, and creating and updating maintenance manuals, test procedures and reports.
-
-Personal Strengths
-------------------
-
-* Competitive attitude and the desire to win and design superior products.
-* Able to follow directions, but also able to make difficult decisions on my own.
-* Works best in high pressure situations
-* Strong decision-making and initiative to take action.
-* Work well integrating with others and collaborating in multidisciplinary teams.
-* Build positive relationships with good people skills
-* Self-motivated
-* Interface well with senior engineers, management, executives, customers and contractors.
 
