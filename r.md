@@ -117,8 +117,13 @@ BS, Mechanical Engineering, 2007
 Independent Learning
 --------------------
 
-? I've done a lot of self-studying in my post-college life (taught myself a lot of software development). How can I capture that in a resume ?
-
+Since college have self-taught many subjects
+* Digital systems and computer architecture
+* Website development and design
+* Software application development
+* Database administration
+* Linux/Unix system administration
+* Machine learning and data mining
 
 
 Skills
@@ -144,19 +149,20 @@ Computer Programs
 Software Development
 --------------------
 
-* Javascript (jQuery, Backbone)
-* PHP (MediaWiki)
+* Javascript (jQuery, Backbone, Underscore)
+* PHP
 * Python
 * Linux/Unix Operating Systems
 * SQL (MySQL, PostgreSQL, SQL Server)
 * HTML and CSS
+* MediaWiki extensions
 * C# (.NET)
-* Git (Github: https://github.com/jamesmontalvo3)
+* Git version control (Github: https://github.com/jamesmontalvo3)
 
 Miscellaneous
 -------------
 
 * SCUBA Certified, dives in NASA's Neutral Buoyancy Lab
-* Strong writing skills and oral communication
-* Technical writing: modification and assembly procedures, and creating and updating maintenance manuals, test procedures and reports.
+* Clear Lake City Elementary robotics coach
+* Coached elementary school lacrosse
 
