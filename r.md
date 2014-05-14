@@ -18,13 +18,12 @@ Professional Summary
 
 Problem solver with experience managing operations where human life is at stake:
 
-* Thrives under pressure in fast-paced, deadline-oriented environment while still producing exceptional products
+* Thrives in fast-paced, deadline-oriented environment while still producing exceptional products
 * Manages small groups of two to five people in high-pressure scenarios
 * Identifies problems others overlook and provides effective solutions
 * Analyzes business processes and develops game-changing improvements
 * Instructs astronauts in technical subjects and speaks publicly with ease and confidence
-* Studies new subjects and reads technical literature
-* Understands broad engineering topics
+* Understands broad engineering topics:
   * Degree and career in mechanical engineering
   * Studies in electrical engineering
   * Passion for software development
@@ -38,32 +37,35 @@ United Space Alliance, Houston, TX
 
 ### EVA Flight Controller and Instructor, 2011 – Present
 
-_THIS SECTION NEEDS TO BE MADE MORE BETTER_
-
-* Design and implement training programs for Astronauts in preparation for spacewalks
-* Collaborate with astronauts aboard the international space station in preparation for spacewalks
-* script specific plan of action for space walks and oversee their (...) from mission control
-* Project manager for the preparation and implementation of emergency spacewalks where urgency is necessary
-
-
 * Obtained Extra-Vehicular Activity Flight Controller Certification
-  * Certification required simulations to ... 
-  * Certified after third simulation; typically five or more are required.
-* Tools Group lead, in charge of ....
+  * Simulations to prove readiness for life-or-death scenarios required for certification
+  * Certified after third simulation; typically five or more required
+  * Collaborated with astronauts aboard the International Space Station in preparation for spacewalks
+  * Developed specific plan of action for spacewalks and managed their execution from Mission Control
+* Tools Group lead, managing tool modifications and failure response
 * Skills Cadre co-lead, in charge of improving training for new astronauts
-* 
-* Tools integration into Predive Calendar
-* EVA Wiki
-* MOD Wikis
-* Expedition 37
-* US EVAs 18 and 19 (every shift)
-* US EVA 20
-* US EVA 21
-* US EVAs 24 and 25 (jettison analysis)
+* Implemented improved knowledge management platform using MediaWiki
+  * Solved problem of data spread across multiple locations
+  * System automatically disperses data to related pages; meeting notes automatically are listed on related articles
+  * Other organizations followed; total of five interconnected implementations at present
+  * Developed several extensions for MediaWiki (which are open-source software and available at my Github profile)
+  * Employee of the Month for wiki (month? year?)
+  * Center Director award (more info?)
+* Assisted with development of contingency tools for US EVA 19
+* Lead procedure developer for "US EVA 20", November 2012 ?checkdate
+  * Ammonia leak in power generation system
+  * Many systems and interfaces that had not been actuated on-orbit before
+  * Worked non-stop for four weeks to develop plan and prepare the astronauts already on-orbit
+* Lead procedure developer for "US EVA 21", June 2013 ?checkdate
+  * Emergency spacewalk
+  * Unprecedented 36-hour very quick turn around (basically did not sleep during this time)
+* Trained astronaut Mike Hopkins for International Space Station Expedition 37
+* Performed large object jettison analysis for US EVAs 24 and 25
 
 ### EVA Instructor, 2008 – 2011
 
-* Trained Space Shuttle crew of STS-132 and International Space Station Expedition 30
+* Trained Space Shuttle crew of STS-132 for three spacewalks
+* Trained astronauts Dan Burbank and Andre Kuipers for International Space Station Expedition 30
 * Obtained Extra-Vehicular Activity Task Instructor Certification
   * Taught many classes to astronauts and other NASA personnel in preparation for EVA (spacewalk) activities
   * Became proficient at teaching 2-3 hour long classes and leading 8+ hour training events
@@ -72,6 +74,8 @@ _THIS SECTION NEEDS TO BE MADE MORE BETTER_
   * Consolidated communication from instructors to the Neutral Buoyancy Laboratory
   * Organized documents for training events and made them easily searchable and reusable
   * Combined three existing systems into one
+  * Built prototypes of this system in free time before funding was allocated to prove it was the best option
+  * Given Employee of the Month award for Extra-Vehicular Activity branch (year? month?)
 
 Avidyne Corporation, Lincoln, MA
 --------------------------------
